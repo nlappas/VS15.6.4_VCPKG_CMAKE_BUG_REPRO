@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/nikos/Desktop/repro
+# Install script for directory: C:/Users/nikos/Desktop/VS15.6.4_VCPKG_CMAKE_BUG_REPRO
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/nikos//CMakeBuilds//f83620a4-25de-6d3d-940d-b8ce325208a2//install//x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/nikos//CMakeBuilds//556c7c44-f7e7-c139-8519-b29345ae4a8c//install//x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/nikos/Desktop/repro/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/nikos/Desktop/VS15.6.4_VCPKG_CMAKE_BUG_REPRO/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

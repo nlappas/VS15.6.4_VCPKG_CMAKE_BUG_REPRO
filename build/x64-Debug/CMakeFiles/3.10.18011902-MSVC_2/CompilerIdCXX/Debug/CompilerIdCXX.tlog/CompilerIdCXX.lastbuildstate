@@ -1,2 +1,2 @@
 #TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.16299.0
-Debug|x64|C:\Users\nikos\Desktop\repro\build\x64-Debug\CMakeFiles\3.10.18011902-MSVC_2\CompilerIdCXX\|
+Debug|x64|C:\Users\nikos\Desktop\VS15.6.4_VCPKG_CMAKE_BUG_REPRO\build\x64-Debug\CMakeFiles\3.10.18011902-MSVC_2\CompilerIdCXX\|
